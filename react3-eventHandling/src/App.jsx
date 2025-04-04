@@ -9,8 +9,8 @@ function App() {
       <div>
         <input type = "text" onChange={(event) =>{
           console.log(event.target.value)
-
-        }}>
+        }}
+        >
 
         </input>
         <button>Add TO DO</button>

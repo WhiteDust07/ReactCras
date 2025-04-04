@@ -3,4 +3,4 @@
 // How do we fetch data from Apis in React?
 
 // Fetch
-// Axios
+// Axios - this is easy way to fatch apis from react

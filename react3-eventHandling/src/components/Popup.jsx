@@ -16,7 +16,7 @@ function Popup({ task }){
                     }}/>
                 </div>
             </div>
-            <div className="backdrop" onClick={}></div>
+            <div className="backdrop"></div>
         </div>
     </>
     // IN Btn with CAncel 
